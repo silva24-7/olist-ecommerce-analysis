@@ -9,7 +9,7 @@ The main objective is to evaluate **Sales Performance**, **Logistics Efficiency*
 
 ### 🚀 Interactive Dashboard
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d81f84ae-8af9-408f-a07e-9121795c4e8c" />
+<img width="787" height="540" alt="image" src="https://github.com/user-attachments/assets/536107e2-af1f-43f7-8c61-f0fee7853486" />
 
 **[👉 Click Here to View the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/c82ae7bc-2add-428a-b8ac-43835c7472a7)**
 
