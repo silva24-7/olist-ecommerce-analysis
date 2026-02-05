@@ -8,6 +8,9 @@ This project analyzes a dataset of **100k+ orders** from Olist Store (a Brazilia
 The main objective is to evaluate **Sales Performance**, **Logistics Efficiency**, and **Customer Satisfaction** to identify why some high-selling categories suffer from low ratings. The final output is an automated dashboard for stakeholders to monitor daily operations.
 
 ### 🚀 Interactive Dashboard
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d81f84ae-8af9-408f-a07e-9121795c4e8c" />
+
 **[👉 Click Here to View the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/c82ae7bc-2add-428a-b8ac-43835c7472a7)**
 
 ---
